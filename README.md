@@ -1,6 +1,8 @@
 # Hola, mi nombre es Jose (k4to) 👋
 
-![pika, pika, pikachu](/assets/pikachu.gif)
+<!-- ![pika, pika, pikachu](/assets/pikachu.gif) -->
+<img src="/assets/pikachu.gif" width="120">
+
 <!--
 ### 🗣 My activity:
 
